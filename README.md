@@ -21,6 +21,9 @@ pip install fastapi uvicorn[standard] aiofiles bokeh numpy
 ```
 uvicorn main:app --reload
 ```
+
+This code is written in `run_server.sh`.
+
 Read the output message and copy paste the url into your server (e.g. http://127.0.0.1:8000)
 
 ## Remark
