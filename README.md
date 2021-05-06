@@ -25,7 +25,7 @@ Read the output message and copy paste the url into your server (e.g. http://127
 
 ## Remark
 
-No need to stop the server.
+No need to stop the server when using `unicorv` with the `--reload` option.
 
 ### Updating output
 
