@@ -13,7 +13,7 @@ Web app with HTML/JS frontend and python as backend
 - aiofiles
 
 ```python
-pip install fastapi uvicorn[standard] bokeh numpy
+pip install fastapi uvicorn[standard] aiofiles bokeh numpy
 ```
 
 ## Run server
